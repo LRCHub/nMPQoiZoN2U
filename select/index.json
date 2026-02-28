@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "レプリカント",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-28T03:33:17.292217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レプリカント",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_レプリカント_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レプリカント",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_レプリカント_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レプリカント",
+      "artist": "BBHF",
+      "has_synced": true,
+      "path": "select/03_レプリカント_BBHF.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レプリカント (Replicant)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_レプリカント_(Replicant)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レプリカント - Replicant",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_レプリカント_-_Replicant_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レプリカント　buzzG Feat.GUMI",
+      "artist": "buzzG feat.初音ミク,GUMI",
+      "has_synced": true,
+      "path": "select/06_レプリカント_buzzG_Feat.GUMI_buzzG_feat.初音ミク,GUMI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レプリカント",
+      "artist": "Bird Bear Hare and Fish",
+      "has_synced": true,
+      "path": "select/07_レプリカント_Bird_Bear_Hare_and_Fish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ありふれた、レプリカント",
+      "artist": "卯花ロク",
+      "has_synced": true,
+      "path": "select/08_ありふれた、レプリカント_卯花ロク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レプリカント",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_レプリカント_ヨルシカ.txt"
+    }
+  ]
+}
